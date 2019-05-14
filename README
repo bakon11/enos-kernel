@@ -1,3 +1,11 @@
+        Quick Instructions:
+        ```
+        sudo make -j6
+        sudo make modules_install
+        sudo make dtbs_install
+        sudo make install
+        ```
+        
         Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
